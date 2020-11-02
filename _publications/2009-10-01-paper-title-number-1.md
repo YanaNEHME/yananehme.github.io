@@ -3,7 +3,7 @@ title: "Comparison of subjective methods, with and without explicit reference, f
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Yana Nehmé, Jean-Philippe Farrugia, Florent Dupont, Patrick Le Callet, [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/)'
-date: 2009-09
+date: 2009-09-01
 venue: 'ACM Symposium on Applied Perception (SAP), Barcelona, Spain'
 ---
 resume abstarct?.

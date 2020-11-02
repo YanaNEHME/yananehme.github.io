@@ -84,13 +84,14 @@ analytics:
 author:
   name             : "Yana Nehmé"
   avatar           : "yana.jpg"
-  bio              : "PhD student INSA Lyon Laboratoire d’InfoRmatique en Image et Systèmes d’information (LIRIS) yana.nehme@liris.cnrs.fr"
-  key: |
-  Line1
-  Line2
-  Line3
-
-  location         : 
+  bio              : "PhD student
+  \n
+  INSA Lyon
+  \n
+  Laboratoire d’InfoRmatique en Image et Systèmes d’information (LIRIS)
+  \n
+  yana.nehme@liris.cnrs.fr"
+ # location         : 
   employer         :
   pubmed           :
   googlescholar    : "http://TO_BE_Defined.com"

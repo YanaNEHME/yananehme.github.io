@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Yana Nehmé"
   avatar           : "yana.jpg"
-bio: |
+bio: >
 Laboratoire d’InfoRmatique en Image et Systèmes d’information (LIRIS)
 INSA Lyon, France
 yana.nehme@liris.cnrs.fr

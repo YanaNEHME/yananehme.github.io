@@ -15,8 +15,7 @@ Here shoub be a short biblio [academicpages template](https://github.com/academi
 News
 ------
 1.Comparison of Subjective Methods for Quality Assessment of 3D Graphics in Virtual Reality
-Yana Nehmé, Jean-Philippe Farrugia, Florent Dupont, Patrick Le Callet, Guillaume Lavoué, ACM Transactions on Applied Perception, Vol. 18, No. 1, Article 2, 23 pages, 2020. 
-
+Yana Nehmé, Jean-Philippe Farrugia, Florent Dupont, Patrick Le Callet, Guillaume Lavoué, ACM Transactions on Applied Perception, Vol. 18, No. 1, Article 2, 23 pages, 2020.
 1. PCQM: A full-reference quality metric for colored 3D point clouds 
 Gabriel Meynet, Yana Nehmé, Julie Digne, Guillaume Lavoué, International Conference on Quality of Multimedia Experience (QoMEX), 2020. Best Student Paper Award.
 

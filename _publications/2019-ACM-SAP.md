@@ -2,7 +2,7 @@
 title: "Comparison of subjective methods, with and without explicit reference, for quality assessment of 3D graphics"
 collection: publications
 permalink: /publication/2019-ACM-SAP
-excerpt: 'Yana Nehmé, Jean-Philippe Farrugia, Florent Dupont, Patrick Le Callet, [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/)'
+excerpt: 'Yana Nehmé, [Jean-Philippe Farrugia](http://perso.univ-lyon1.fr/jean-philippe.farrugia/), [Florent Dupont](https://perso.liris.cnrs.fr/florent.dupont/), [Patrick Le Callet](https://scholar.google.fr/citations?user=llgwlUgAAAAJ&hl=fr), [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/)'
 date: 2019-09-01
 venue: 'ACM Symposium on Applied Perception (SAP), Barcelona, Spain'
 ---

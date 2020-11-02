@@ -84,10 +84,14 @@ analytics:
 author:
   name             : "Yana Nehmé"
   avatar           : "yana.jpg"
-  bio              : "PhD student"
-  bio              : "Laboratoire d’InfoRmatique en Image et Systèmes d’information (LIRIS)"
-  bio              : "INSA Lyon, France"
-  bio              : "yana.nehme@liris.cnrs.fr"
+  bio              : 
+   bio1: "PhD student"
+bio2: |
+Laboratoire d’InfoRmatique en 
+Image et Systèmes d’information (LIRIS)
+INSA Lyon, France
+bio3: > 
+yana.nehme@liris.cnrs.fr
   #location         : INSA Lyon, France
   employer         :
   pubmed           :

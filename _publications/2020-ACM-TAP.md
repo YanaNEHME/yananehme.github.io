@@ -7,7 +7,7 @@ date: 2020-10-01
 venue: 'ACM Transactions on Applied Perception (TAP), Vol. 18, No. 1, Article 2'
 ---
 <img src='/images/500x300.png'>
-<p style='text-align: justify;'> Numerous methodologies for subjective ...</p>
+<p style='text-align: justify;'> Numerous methodologies for subjective ... NOT PUBLISHED YET</p>
 
 [PDF](http://yananehme.github.io/files/bbb.pdf)
 

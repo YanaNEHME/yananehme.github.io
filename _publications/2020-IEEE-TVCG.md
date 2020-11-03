@@ -7,7 +7,7 @@ date: 2020-12-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. X, No. Y, Article Z'
 ---
 <img src='/images/500x300.png'>
-<p style='text-align: justify;'> Surface meshes associated with diffuse texture or color attributes ...</p>
+<p style='text-align: justify;'> Surface meshes associated with diffuse texture or color attributes ... NOT PUBLISHED YET</p>
 
 [PDF](http://yananehme.github.io/files/bbb.pdf)
 

@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Robotics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Undergraduate course(TP)"
+permalink: 
+venue: "INSA, FIMI"
 date: 2015-01-01
-location: "City, Country"
+location: "Lyon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+2019 -> 2021 TP/project + description of the teaching experience. 
+/teaching/2015-spring-teaching-1
+Asservissements
 ======
 
-Heading 2
-======
-
-Heading 3
-======

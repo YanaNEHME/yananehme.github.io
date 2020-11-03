@@ -2,7 +2,7 @@
 title: "Robotics"
 collection: teaching
 type: "Undergraduate course(TP)"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "INSA, FIMI"
 date: 2015-01-01
 location: "Lyon, France"

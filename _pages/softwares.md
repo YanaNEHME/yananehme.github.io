@@ -14,6 +14,6 @@ Then for each scale h<sub>i</sub>, we define a spherical neighborhood around eac
 Local single-scale feature values are pooled into global multiscale features. Finally, CMDM is defined as a linear combination of an optimal subset of features determined through logistic regression.</p>
 > CMDM code is available in the [MEPP2 platforms](https://github.com/MEPP-team/MEPP2).
 <img align="right" width="300" height="200" src='/images/Mepp2_logo.jpg'> <br/>
-> |	[Manual](http://yananehme.github.io/files/Manual_CMDM.pdf)	|	[Project page](https://projet.liris.cnrs.fr/pisco/)	|	[bibtex](http://yananehme.github.io/files/bbb.bib)	|
+|	[Manual](http://yananehme.github.io/files/Manual_CMDM.pdf)	|	[Project page](https://projet.liris.cnrs.fr/pisco/)	|	[bibtex](http://yananehme.github.io/files/bbb.bib)	|
 
 

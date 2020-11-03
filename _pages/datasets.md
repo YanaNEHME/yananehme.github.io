@@ -10,4 +10,12 @@ others: ""
 <p style='text-align: justify;'> We provide a large dataset of 480 animated meshes with diffuse color information, and associated with perceived quality judgments. 
 The stimuli were generated from 5 source models subjected to geometry and color distortions. Each stimulus was associated with 6 hypothetical rendering trajectories (HRTs): 
 combinations of 3 viewpoints and 2 animations. A total of 11520 quality judgments (24 per stimulus) were acquired in a subjective experiment conducted in virtual reality (VR) 
-and based on the double stimulus impairment scale (DSIS) method.</p>
+and based on the double stimulus impairment scale (DSIS) method.
+
+This databse was created at the [LIRIS](https://liris.cnrs.fr/), Université de Lyon, and [LS2N](https://www.ls2n.fr/), Université de Nantes, labs.
+It is associated with the following reference. Please cite it, if you use the dataset.</p>
+<img src='/images/profile.png'>
+
+## Textured 3D Meshes Database
+------
+UPCOMING

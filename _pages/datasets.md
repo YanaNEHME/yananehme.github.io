@@ -15,7 +15,7 @@ and based on the double stimulus impairment scale (DSIS) method.
 This databse was created at the LIRIS, Université de Lyon, and LS2N, Université de Nantes, labs.
 It is associated with the following reference. Please cite it, if you use the dataset.</p>
 
-<img src='/images/VC_DB_RefPic.pdf'>
+<img src='/images/profile.png'>
 
 ## Textured 3D Meshes Database
 ------

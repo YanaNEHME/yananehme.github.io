@@ -12,9 +12,10 @@ The stimuli were generated from 5 source models subjected to geometry and color 
 combinations of 3 viewpoints and 2 animations. A total of 11520 quality judgments (24 per stimulus) were acquired in a subjective experiment conducted in virtual reality (VR) 
 and based on the double stimulus impairment scale (DSIS) method.
 
+This dataset was created at the LIRIS, Université de Lyon, and LS2N, Université de Nantes, labs.
 It is associated with the following reference. Please cite it, if you use the dataset.</p>
 
-<img src='/images/VC_DB_RefPic.pdf'>
+<img src='/images/VC_DB_RefPic.png'>
 
 ## Textured 3D Meshes Database
 ------

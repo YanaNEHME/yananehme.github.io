@@ -5,13 +5,21 @@ permalink: /datasets/
 author_profile: true
 others: ""
 ---
+## 3D Meshes with Diffuse Colors Database
+------
+<p style='text-align: justify;'> We provide a large dataset of 480 animated meshes with diffuse color information, and associated with perceived quality judgments. 
+The stimuli were generated from 5 source models subjected to geometry and color distortions. Each stimulus was associated with 6 hypothetical rendering trajectories (HRTs): 
+combinations of 3 viewpoints and 2 animations. A total of 11520 quality judgments (24 per stimulus) were acquired in a subjective experiment conducted in virtual reality (VR) 
+and based on the double stimulus impairment scale (DSIS) method.
+<img src='/images/profile.png'>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+This databse was created at the [LIRIS](https://liris.cnrs.fr/), Université de Lyon, and [LS2N](https://www.ls2n.fr/), Université de Nantes, labs.
+It is associated with the following reference. Please cite it, if you use the dataset.</p>
+> Yana Nehmé, Florent Dupont, Jean-Philippe Farrugia, Patrick Le Callet, Guillaume Lavoué, Visual Quality of 3D Meshes with Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation, IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. X, No. Y, Article Z, 2020
 
-{% include base_path %}
+|	[Dataset](https://drive.google.com/file/d/1ufm5kl1aBvIYE3hNgyK51HGYbmC8K8_d/view?usp=sharing)	|	[Project page](https://projet.liris.cnrs.fr/pisco/)	|	[bibtex](http://yananehme.github.io/files/bbb.bib)	|
+[PDF](http://yananehme.github.io/files/bbb.pdf)
 
-{% for post in site.datasets reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Textured 3D Meshes Database
+------
+UPCOMING

@@ -1,20 +1,17 @@
 ---
-title Teaching experience 1
-collection teaching
-type Undergraduate course
-permalink teaching2014-spring-teaching-1
-venue University 1, Department
-date 2014-01-01
-location City, Country
+title: "Java and DB"
+collection: teaching
+type: "Undergraduate course(TP and TD)"
+permalink: /teaching/2014-spring-teaching-1
+venue: "INSA, FIMI"
+date: 2018-01-01
+location: "Lyon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+2018 to 2021 TP and TD  + description of the teaching experience. 
 
-Heading 1
+Java
 ======
 
-Heading 2
-======
-
-Heading 3
+BD
 ======

@@ -10,13 +10,13 @@ redirect_from:
 
 Bibliography
 ======
-<p style='text-align: justify;'> I am a PhD student at the [Institut National des Sciences Appliquées de Lyon](https://www.insa-lyon.fr/en/) (Insa Lyon), inside [LIRIS lab](https://liris.cnrs.fr/)
-My PhD thesis is supervised by Prof. [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/index.html). 
+<p style='text-align: justify;'> I am a PhD student at the <a href="https://www.insa-lyon.fr/en/" target="_top">Institut National des Sciences Appliquées de Lyon</a> (Insa Lyon), inside <a href="https://liris.cnrs.fr/" target="_top">LIRIS</a>
+My PhD thesis is supervised by Prof. <a href="https://perso.liris.cnrs.fr/guillaume.lavoue/index.html" target="_top">Guillaume Lavoué</a>. 
 My research interests include visual perception and visual quality assessment, immersive data, augmented and virtual reality.
 More precisely, my thesis objective is to produce a visual quality metric capable of predicting the perceptual impact of modifications applied to the geometry, textures and animation of immersive rich 3D scenes.<br/><br/>
 
 I received, in 2018, a double degree in electronics and digital technology from the faculty of engineering of the Lebanese University and Ecole polytechnique de l’Université de Nantes. 
-During my studies, I was an undergraduate researcher at [LS2N](https://www.ls2n.fr/). I worked on ... blablabbla</p>
+During my studies, I was an undergraduate researcher at <a href="https://www.ls2n.fr/" target="_top">LS2N</a>. I worked on ... blablabbla</p>
 
 News
 ------

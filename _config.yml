@@ -83,8 +83,10 @@ analytics:
 # Site Author
 author:
   name             : "Yana Nehmé"
-  avatar           : "yana.jpg"
-  bio: "PhD Student\n\n\n\n\n\nLaboratoire d’InfoRmatique en Image et Systèmes d’information (LIRIS)\nINSA Lyon, France\n\n\n\n\n\n\n\n\n\n\n\nyana.nehme@liris.cnrs.fr"
+  avatar           : "yana2.jpg"
+  bio: "<p style='margin:0; text-align: justify;'>PhD Student<br/> Laboratoire d’InfoRmatique en Image et Systèmes d’information (LIRIS)<br/>
+  INSA Lyon, France<br/><br/>
+  <strong>yana.nehme@liris.cnrs.fr</strong></p>"
   #location        : 
   employer         :
   pubmed           :
@@ -104,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yana-nehme-85a576153"
+  linkedin         : "yana-nehme-85a576153"
   orcid            :
   pinterest        :
   soundcloud       :

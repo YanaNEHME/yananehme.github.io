@@ -1,7 +1,7 @@
 ---
 title: "Comparison of Subjective Methods for Quality Assessment of 3D Graphics in Virtual Reality"
 collection: publications
-permalink: /publication/2020-ACM-TAP
+permalink: /publications/2020-ACM-TAP
 excerpt: 'Yana Nehmé, [Jean-Philippe Farrugia](http://perso.univ-lyon1.fr/jean-philippe.farrugia/), [Florent Dupont](https://perso.liris.cnrs.fr/florent.dupont/), [Patrick Le Callet](https://scholar.google.fr/citations?user=llgwlUgAAAAJ&hl=fr), [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/)'
 date: 2020-10-01
 venue: 'ACM Transactions on Applied Perception (TAP), Vol. 18, No. 1, Article 2'

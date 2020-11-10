@@ -26,7 +26,7 @@ has been accepted in IEEE Transactions on Visualization and Computer Graphics (T
 Yana Nehmé, [Jean-Philippe Farrugia](http://perso.univ-lyon1.fr/jean-philippe.farrugia/), [Florent Dupont](https://perso.liris.cnrs.fr/florent.dupont/), [Patrick Le Callet](https://scholar.google.fr/citations?user=llgwlUgAAAAJ&hl=fr), [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/), 
 ACM Transactions on Applied Perception, Vol. 18, No. 1, Article 2, 23 pages, 2020.
 3. CMDM metric code has been released on the [MEPP2 platforms](https://github.com/MEPP-team/MEPP2). 
-4. Our 3D Meshes with Diffuse Colors database along with subjective scores are made publicly [available online](https://drive.google.com/file/d/1ufm5kl1aBvIYE3hNgyK51HGYbmC8K8_d/view?usp=sharing).
+4. Our 3D Meshes with Diffuse Colors database along with subjective scores are made publicly [available online](https://perso.liris.cnrs.fr/ynehme/datasets/Final_VertexColor_DB.zip).
 5. [PCQM: A full-reference quality metric for colored 3D point clouds](http://yananehme.github.io/files/QoMEX2020.pdf),
 [Gabriel Meynet](https://liris.cnrs.fr/page-membre/gabriel-meynet), Yana Nehmé, [Julie Digne](https://perso.liris.cnrs.fr/julie.digne/), [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/), 
 International Conference on Quality of Multimedia Experience (QoMEX), 2020. <strong>Best Student Paper Award.</strong>

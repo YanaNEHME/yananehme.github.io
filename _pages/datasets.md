@@ -25,7 +25,7 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. X, No. Y, 
 <table style='table-layout: fixed;'>
   <tbody>
     <tr>
-      <td  style="text-align:center; font-size: 19px;"><a href="https://drive.google.com/file/d/1ufm5kl1aBvIYE3hNgyK51HGYbmC8K8_d/view?usp=sharing">Dataset</a> (1GB zip file)</td>
+      <td  style="text-align:center; font-size: 19px;"><a href="https://perso.liris.cnrs.fr/ynehme/datasets/Final_VertexColor_DB.zip">Dataset</a> (1GB zip file)</td>
       <td style="text-align:center; font-size: 19px;"><a href="https://projet.liris.cnrs.fr/pisco/">Project page</a></td>
       <td style="text-align:center; font-size: 19px;"><a href="http://yananehme.github.io/files/bbb.bib">bibtex</a></td>
     </tr>

@@ -1,7 +1,7 @@
 ---
 title: "PCQM: A full-reference quality metric for colored 3D point clouds "
 collection: publications
-permalink: /publication/2020-IEEE-QOMEX
+permalink: /publications/2020-IEEE-QOMEX
 excerpt: '[Gabriel Meynet](https://liris.cnrs.fr/page-membre/gabriel-meynet), Yana Nehmé, [Julie Digne](https://perso.liris.cnrs.fr/julie.digne/), [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/)'
 date: 2020-05-28
 venue: 'International Conference on Quality of Multimedia Experience (QoMEX), Athlone, Irlande'

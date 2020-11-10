@@ -32,6 +32,10 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. X, No. Y, 
   </tbody>
 </table>
 
+<p style='text-align: justify; margin:0'> <b>Acknowledgement</b>: The <i>Chameleon</i>, <i>Fish</i> and <i>Samurai</i> models 
+are derived from models produced by <a href="https://sketchfab.com/rumpelshtiltshin">Rumpelstiltskin</a>, <a href="https://www.cgtrader.com/davt-key">Davita Kurniawan</a>, and <a href="https://sketchfab.com/David.Antalek">David Antalek</a>, respectively.
+</p>
+
 ## Textured 3D Meshes Database
 ------
 UPCOMING]

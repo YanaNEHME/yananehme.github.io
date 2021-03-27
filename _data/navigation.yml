@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Datasets"
+    url: /datasets/
+    
   - title: "Softwares"
     url: /softwares/    
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Datasets"
-    url: /datasets/
     
   - title: "CV"
     url: /cv/

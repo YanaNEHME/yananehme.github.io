@@ -54,12 +54,18 @@ Awards
 
 Talks
 ------
+* <b>[Visual Quality of 3D Meshes with Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation](https://www.youtube.com/watch?v=1gDXcEzCYX8)</b><br/>
+IEEE Virtual Reality (VR) conference, Lisbon, Portugal, <i>March 2021 - virtual</i>
+* <b>Journée 2021 du GTRV « Réalités virtuelles »</b><br/>
+J-GTRV seminar, France, <i>March 2021 - virtual</i>
+* <b>Immersive Media Group (IMG)</b><br/>
+The Video Quality Experts Group (VQEG) plenary meeting, <i>december 2020 - virtual</i>
 * <b>Évaluation de la qualité subjective et objective des données 3D</b><br/>
 GdR-ISIS seminar, Paris, France, <i>june 2020 - virtual</i>
 * <b>Tendances en évaluation de la qualité pour la compression et la sécurisation des contenus</b><br/>
 GdR-ISIS seminar, Paris, France, <i>nov. 2019</i>
-* <b>[Comparison of subjective methods, with and without explicit reference, for quality assessment of 3D graphics](https://yananehme.github.io/publication/2019-ACM-SAP)</b><br/>
-ACM Symposium on Applied Perception (SAP), Barcelona, Spain, <i>sept. 2019</i>
+* <b>[Comparison of subjective methods, with and without explicit reference, for quality assessment of 3D graphics](https://yananehme.github.io/publications/2019-ACM-SAP)</b><br/>
+ACM Symposium on Applied Perception (SAP) conference, Barcelona, Spain, <i>sept. 2019</i>
   
 Teaching
 ------

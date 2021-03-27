@@ -18,7 +18,7 @@ It is associated with the following reference. Please cite it, if you use the da
   <p  style='text-align: justify; margin-top:0; font-size: 17px;'>Yana Nehmé, <a href="https://perso.liris.cnrs.fr/florent.dupont/" target="_top">Florent Dupont</a>, <a href="http://perso.univ-lyon1.fr/jean-philippe.farrugia/" target="_top">Jean-Philippe Farrugia</a>, 
  <a href="https://scholar.google.fr/citations?user=llgwlUgAAAAJ&hl=fr" target="_top">Patrick Le Callet</a>, <a href="https://perso.liris.cnrs.fr/guillaume.lavoue/index.html" target="_top">Guillaume Lavoué</a>, 
 <a href="https://yananehme.github.io/publication/2020-IEEE-TVCG" target="_top">Visual Quality of 3D Meshes with Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation</a>, 
-IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. X, No. Y, Article Z, 2020.
+IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. 27, No. 3, 2021.
 </p>
 </blockquote>
 
@@ -27,7 +27,7 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. X, No. Y, 
     <tr>
       <td  style="text-align:center; font-size: 19px;"><a href="https://perso.liris.cnrs.fr/ynehme/datasets/Final_VertexColor_DB.zip">Dataset</a> (1GB zip file)</td>
       <td style="text-align:center; font-size: 19px;"><a href="https://projet.liris.cnrs.fr/pisco/">Project page</a></td>
-      <td style="text-align:center; font-size: 19px;"><a href="http://yananehme.github.io/files/bbb.bib">bibtex</a></td>
+      <td style="text-align:center; font-size: 19px;"><a href="http://yananehme.github.io/files/TVCG_21.bib">bibtex</a></td>
     </tr>
   </tbody>
 </table>

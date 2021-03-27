@@ -19,14 +19,16 @@ During my end-of-courses project (M2 internship), I worked, at <a href="https://
 
 News
 ------
-1. Visual Quality of 3D Meshes with Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation,
+1. [Visual Quality of 3D Meshes with Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation](https://yananehme.github.io/publications/2020-IEEE-TVCG),
 Yana Nehmé, [Florent Dupont](https://perso.liris.cnrs.fr/florent.dupont/), [Jean-Philippe Farrugia](http://perso.univ-lyon1.fr/jean-philippe.farrugia/), [Patrick Le Callet](https://scholar.google.fr/citations?user=llgwlUgAAAAJ&hl=fr), [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/), 
-has been accepted in IEEE Transactions on Visualization and Computer Graphics (TVCG).
-2. [Comparison of Subjective Methods for Quality Assessment of 3D Graphics in Virtual Reality](http://yananehme.github.io/files/bbb.pdf),
+IEEE Transactions on Visualization and Computer Graphics (TVCG), , Vol. 27, No. 3, March 2021.
+- <strong>Certified as <a href="http://www.replicabilitystamp.org/">replicable paper.</a></strong>
+- <strong>Presented at the IEEE Virtual Reality international conference <a href="https://ieeevr.org/2021/">(IEEE VR 2021)</a>.</strong>
+- CMDM metric code has been released on the [MEPP2 platforms](https://github.com/MEPP-team/MEPP2). 
+- Our 3D Meshes with Diffuse Colors database along with subjective scores are made publicly [available online](https://perso.liris.cnrs.fr/ynehme/datasets/Final_VertexColor_DB.zip).
+2. [Comparison of Subjective Methods for Quality Assessment of 3D Graphics in Virtual Reality](https://yananehme.github.io/publications/2020-ACM-TAP),
 Yana Nehmé, [Jean-Philippe Farrugia](http://perso.univ-lyon1.fr/jean-philippe.farrugia/), [Florent Dupont](https://perso.liris.cnrs.fr/florent.dupont/), [Patrick Le Callet](https://scholar.google.fr/citations?user=llgwlUgAAAAJ&hl=fr), [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/), 
-ACM Transactions on Applied Perception, Vol. 18, No. 1, Article 2, 23 pages, 2020.
-3. CMDM metric code has been released on the [MEPP2 platforms](https://github.com/MEPP-team/MEPP2). 
-4. Our 3D Meshes with Diffuse Colors database along with subjective scores are made publicly [available online](https://perso.liris.cnrs.fr/ynehme/datasets/Final_VertexColor_DB.zip).
-5. [PCQM: A full-reference quality metric for colored 3D point clouds](http://yananehme.github.io/files/QoMEX2020.pdf),
+ACM Transactions on Applied Perception, Vol. 18, No. 1, Article 2, 23 pages, January 2021.
+3. [PCQM: A full-reference quality metric for colored 3D point clouds](https://yananehme.github.io/publications/2020-IEEE-QOMEX),
 [Gabriel Meynet](https://liris.cnrs.fr/page-membre/gabriel-meynet), Yana Nehmé, [Julie Digne](https://perso.liris.cnrs.fr/julie.digne/), [Guillaume Lavoué](https://perso.liris.cnrs.fr/guillaume.lavoue/), 
 International Conference on Quality of Multimedia Experience (QoMEX), 2020. <strong>Best Student Paper Award.</strong>
